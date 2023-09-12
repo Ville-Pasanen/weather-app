@@ -1,3 +1,3 @@
 # weather-app
 
-Lisäsin oman koulu projektin näkyville
+Lisäsin oman kouluprojektin näkyville
